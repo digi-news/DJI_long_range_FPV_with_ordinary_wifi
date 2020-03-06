@@ -7,7 +7,7 @@ DJI推出28ms数字图传，能传高清画面，市场格局变化。
 5.8G。 一般都是使用2.4G或者UHF（433等）做遥控（RC）,5.8G做图传。并非5.8G更好，5.8G穿越障碍的能力更差。但干扰少，频段多，更适合这个产业发挥。  
 数字图传会严重干扰模拟图传，数字图传不会被模拟图传干扰。  
 参考 https://xw.qq.com/cmsid/20190917V0OYE200  
-￼  
+![p1](p1.png)
 参考：一个关于2.4G和5.8G哪个更好的帖子 https://fpvlab.com/forums/showthread.php?22857-5-8-or-2-4GHz-for-video  
 
 ### 3.发射功率是多少
@@ -18,7 +18,7 @@ dbm = 10*log(P)
 例：  
 30dbm = 1000mW   
 AR9344最大发射功率只有25dbm 大约310mW，大约能支持2km图传  
-￼
+![p2](p2.png)
 
 ### 4.如何使用普通wifi去做图传
 开源项目:https://github.com/svpcom/wifibroadcast  
