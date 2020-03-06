@@ -1,3 +1,7 @@
+Author: 9crk
+Data: 2020-03-06
+Place: ShenZhen Intelli-Rocks Tech
+
 # FPV 学习笔记
 ### 1.模拟还是数字？
 在DJI之前，FPV都是模拟的，延时低于30ms，分辨率低，有雪花。  
